@@ -45,3 +45,5 @@ Contributing
 We welcome edits and additions to this wiki. To find out more about how to do this please see out `Submitting Contributions <https://github.com/nginxinc/nginx-wiki/blob/master/source/contributing/github.rst>`_ page. If you spot any problems please file a `GitHub Issue <https://github.com/nginxinc/nginx-wiki/issues>`_.
 
 If you have any questions or require any help with this wiki please use the `NGINX Mailing List <http://mailman.nginx.org/mailman/listinfo/nginx>`_.
+
+Recomanded `Web hosting  <https://ultahost.com/>`_.
