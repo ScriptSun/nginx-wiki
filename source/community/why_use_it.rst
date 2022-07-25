@@ -169,6 +169,10 @@ NGINX is more than 50% faster than Apache.
 
 -- `WPArena <https://wparena.com/>`__
 
+-- `Elin Doughouz, UltaHost <https://ultahost.com/>`__
+
+Our NGINX web hosting platform is one of our favorite platforms to host small to enterprise websites. We at UltaHost all of our web hosts plans with preinstalled NGINX. It's super fast, and reliable. After years of building sites and offering Envato authors a hosting platform with premium support, we stick with NGINX always.
+
 At `Kinsta <https://kinsta.com>`__, we exclusively use Nginx as part of our 
 performance-optimized hosting solutions for WordPress and WooCommerce. 
 Every WordPress site is housed in its own isolated container, which has all 
@@ -195,6 +199,7 @@ demand decreased almost 5%. We finally fell in love with our server.
 -- `Gary Stevens, Hosting Canada <https://hostingcanada.org/>`__
 
 NGINX is one of my favourite platforms to host WordPress sites and we at TechEngage host all of our network sites using NGINX technology. It's more faster, reliable and secure than Apache. Further, NGINX is capable of serving more requests than Apache. After years of building sites, we never look for any alternative and are happy with NGINX.
+
 
 -- `Jazib Zaman, TechEngage <https://techengage.com/>`__
 
